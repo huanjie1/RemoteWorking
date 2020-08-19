@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeOK", "EyeOK\EyeOK.csproj", "{D70B0947-7543-423F-909D-2E9F7E02906A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70B0947-7543-423F-909D-2E9F7E02906A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70B0947-7543-423F-909D-2E9F7E02906A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70B0947-7543-423F-909D-2E9F7E02906A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70B0947-7543-423F-909D-2E9F7E02906A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97472F8-9349-479A-8BCF-ACC0D13888F7}
+	EndGlobalSection
+EndGlobal
