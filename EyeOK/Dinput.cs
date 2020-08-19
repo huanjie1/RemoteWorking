@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 
 ////调用示例：
-////（先将MSTSA_x86换成对应的项目名称，需要编译在x86,，需要编译在x86，需要编译在x86!!!）
+////（先将MSTSA_x86换成对应的项目名称，需要编译在x86,需要编译在x86，需要编译在x86!!!）
 ////鼠标滚轮必须的参数必须±120（代表一格？），否则无效
 ////Dinput.KeyDown(14);//Key.Backspace，函数包含键盘回弹
 ////附：键盘扫描码
