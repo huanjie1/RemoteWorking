@@ -4,6 +4,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
+
 namespace EyeOK
 {
     public abstract class API_RAM
